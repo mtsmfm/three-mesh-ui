@@ -5,8 +5,7 @@
   "engines": {
     "node": "x.x.x"
   },
-  "main": "build/three-mesh-ui.min.js",
-  "module": "build/three-mesh-ui.module.js",
+  "main": "src/three-mesh-ui.js",
   "types": "src/types.d.ts",
   "scripts": {
     "test": "echo \"No test specified yet\"",
